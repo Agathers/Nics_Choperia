@@ -12,5 +12,21 @@ Avaliação:
 Cardápio:
 ![Captura de tela 2024-12-02 152704](https://github.com/user-attachments/assets/2b606f53-de1c-43df-a731-96c3840606a1)
  
- Pré-requisitos
- 
+Pré-requisitos:
+Essa é a URL de acesso: https://agathers.github.io/Nics_Choperia/
+
+Construído com:
+- Visual Studio Code
+- MySQL
+- Spring
+- Postman
+- Figma
+- Trello
+- GitHub
+- Documentos (Google)
+
+Autores:
+Beatriz de Oliveira Santos - Documentação e prototipação
+Isabella Vitória Borges - Front-end e prototipação
+Júlia Farias de Queiroz - Front-end, Back-end, documentação e prototipação
+Murilo Rosa Zocca - Front-end e prototipação
