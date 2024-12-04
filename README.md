@@ -12,3 +12,5 @@ Avaliação:
 Cardápio:
 ![Captura de tela 2024-12-02 152704](https://github.com/user-attachments/assets/2b606f53-de1c-43df-a731-96c3840606a1)
  
+ Pré-requisitos
+ 
